@@ -22,7 +22,7 @@ function modelLoaded(){
 
 function draw(){
     image(video, 0, 0, 300, 300);
-    image(lipstick_filter,coordinatex,coordinateY+20,20,20);
+    image(lipstick_filter,coordinatex,coordinateY+20,20);
 }
 
 function save(){
